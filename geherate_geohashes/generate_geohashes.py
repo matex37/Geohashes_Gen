@@ -1,6 +1,6 @@
 import pygeohash as pgh
 
-# Define the four corner points (replace these with your coordinates)
+# Define the 4 corner points (replace these with your coordinates)
 lat1, lon1 = 41.6, -81.6  # Top-left corner
 lat2, lon2 = 41.6, -81.4  # Top-right corner
 lat3, lon3 = 41.4, -81.6  # Bottom-left corner
